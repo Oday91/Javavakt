@@ -1,0 +1,5 @@
+@rem (Base function) Monitor access Checks the response of an IP-address.
+@rem IPv4. Will try to establish a TCP connection to port 7 (Echo) and will use ICMP (ping) as a fallback. 
+@rem The file monIPAddr-01.csv is read.  
+
+java -cp C:\Jvakt\Jvakt.jar Jvakt.monIPAddr -run -config D:\Jvakt-console\config

@@ -1,0 +1,2 @@
+@rem (Base function) Starts the Jvakt.consoleHst.
+start javaw -cp C:\Jvakt\Jvakt.jar Jvakt.consoleHst
