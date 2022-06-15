@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/odaya/Files Nedded/jakarta.activation-api-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/odaya/Files Nedded/jakarta.mail-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/odaya/Files Nedded/jfreechart-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/odaya/Files Nedded/jt400.jar"/>
+	<classpathentry kind="lib" path="C:/Users/odaya/Files Nedded/postgresql.jar"/>
+	<classpathentry kind="lib" path="C:/Users/odaya/Files Nedded/commons-codec-1.15.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
