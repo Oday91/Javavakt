@@ -1,2 +1,2 @@
-# Javavakt
-Java program that check and alarm for small company
+# Jvakt
+A simple monitoring system for small and medium organisations.

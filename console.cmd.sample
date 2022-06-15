@@ -1,0 +1,2 @@
+@rem (Base function) Starts the Jvakt.console
+start javaw -cp C:\Jvakt\Jvakt.jar Jvakt.console
